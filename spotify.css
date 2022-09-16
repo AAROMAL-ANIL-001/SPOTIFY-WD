@@ -1,0 +1,217 @@
+@import url("https://fonts.googleapis.com/css2?family=Crete+Round&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap");
+@import url(//db.onlinewebfonts.com/c/01173b246d9d9ea808ea75a26b3b61bb?family=Circular+Spotify+Tx+T+Black);
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: white;
+  font-family: "Poppins", sans-serif;
+}
+.logo {
+  width: 200px;
+}
+.logo img {
+  width: 117px;
+}
+.header {
+  width: 100%;
+  height: 52px;
+  background-color: black;
+  display: flex;
+}
+.container {
+  width: 80%;
+  height: auto;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav {
+  color: aliceblue;
+  text-decoration: none;
+}
+.nav ul li {
+  display: inline;
+  padding-right: 10px;
+  font-size: 12px;
+  line-height: 24px;
+}
+.nav ul li:hover {
+  color: greenyellow;
+}
+.background {
+  background-image: url(Images/Spotifyback.jfif);
+  background-repeat: no-repeat;
+  height: 360px;
+  background-size: 100%;
+  width: 100%;
+}
+.texter {
+  font-family: spotify-circular, Helvetica, Arial, sans-serif;
+
+  font-size: 38px;
+  color: white;
+  margin-top: 48px;
+  margin-left: -6px;
+}
+.mob {
+    width: 156px;
+    margin-top: 99px;
+    margin-left: 146px;
+}
+.imagee {
+  width: 50%;
+}
+.innertxt {
+  width: 50%;
+}
+.btn {
+  border: 1px;
+  padding: 10px;
+  border-radius: 20px;
+  background-color: white;
+  color: blueviolet;
+  margin-top: 20px;
+}
+.btn:hover {
+  transition: all;
+}
+.s2 {
+  width: 25%;
+  background-color: white;
+  text-align: center;
+  display: inline-block;
+  font-family: "Crete Round", serif;
+}
+.s1 h2 {
+  font-family: spotify-circular, Helvetica, Arial, sans-serif;
+  margin-top: 60px;
+    margin-left: 358px;
+  margin-bottom: 44px;
+}
+.s2 p {
+  font-family: spotify-circular, Helvetica, Arial, sans-serif;
+  font-size: 11px;
+  margin-top: 14px;
+  margin-bottom: 84px;
+}
+.s2 h4 {
+  font-family: spotify-circular, Helvetica, Arial, sans-serif;
+}
+.s2 img {
+  width: 142px;
+  height: 142px;
+}
+.third {
+  background-image: url(Images/bluegradorg.jpg);
+  width: 100%;
+  height: 300px;
+  font-family: spotify-circular, Helvetica, Arial, sans-serif;
+  color: white;
+  text-align: center;
+}
+.third h3 {
+  padding-top: 120px;
+  font-family: spotify-circular, Helvetica, Arial, sans-serif;
+  font-size: 27px;
+}
+.qw {
+  margin-top: 200px;
+  text-align: left;
+}
+.four {
+  width: 100%;
+}
+.four h3 {
+  font-family: spotify-circular, Helvetica, Arial, sans-serif;
+  margin-left: 315px;
+  font-size: 23px;
+  margin-top: 50px;
+}
+.qwest {
+  width: 100%;
+}
+.cont {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.cont-inner {
+  width: 70%;
+  border-bottom: 1px solid #666666;
+  padding: 26px 28px;
+  margin: 0 auto;
+  font-size: 12px;
+  font-family: spotify-circular, Helvetica, Arial, sans-serif;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.icon {
+  width: 15px;
+  height: 15px;
+}
+.five {
+  background-image: url(Images/2ndpinkgrad.svg);
+
+  width: 100%;
+  height: 300px;
+  font-family: spotify-circular, Helvetica, Arial, sans-serif;
+  color: white;
+  text-align: center;
+}
+.five h1 {
+  padding-top: 100px;
+}
+.six {
+  background-color: black;
+  height: 400px;
+}
+.sixinner {
+  width: 20%;
+  color: white;
+  float: left;
+  margin-top: 54px;
+}
+.sixinner h5 {
+  color: gray;
+  font-size: small;
+  text-align: center;
+  padding-top: 20px;
+}
+.sixinner img {
+    width: 129px;
+    height: 60px;
+}
+.last {
+  width: 80%;
+  margin: 0 auto;
+
+}
+.last ul li{
+    list-style-type: none;
+    padding-top: 20px;
+    font-size:9px ;
+}
+.head{
+    color:grey;
+    font-weight: bold;
+}
+.last ul li:hover{
+       color:yellowgreen;
+}
+.social{
+    width: 200px;
+    height:100px;
+}
+.sixinner div img{
+    width: 142px;
+    height: 40px;
+}
+.sixinner div img:hover{
+    color: yellowgreen;
+}
