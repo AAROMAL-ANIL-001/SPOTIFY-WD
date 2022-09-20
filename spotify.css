@@ -87,10 +87,12 @@ body {
   display: inline-block;
   font-family: "Crete Round", serif;
 }
+.s1{
+  margin: 0 auto;
+}
 .s1 h2 {
   font-family: spotify-circular, Helvetica, Arial, sans-serif;
   margin-top: 60px;
-    margin-left: 358px;
   margin-bottom: 44px;
 }
 .s2 p {
